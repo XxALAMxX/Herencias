@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herencias", "Herencias\Herencias.csproj", "{CD3654F7-B628-41B3-A185-D4EC84C455BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3654F7-B628-41B3-A185-D4EC84C455BB}.Debug|x86.ActiveCfg = Debug|x86
+		{CD3654F7-B628-41B3-A185-D4EC84C455BB}.Debug|x86.Build.0 = Debug|x86
+		{CD3654F7-B628-41B3-A185-D4EC84C455BB}.Release|x86.ActiveCfg = Release|x86
+		{CD3654F7-B628-41B3-A185-D4EC84C455BB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
